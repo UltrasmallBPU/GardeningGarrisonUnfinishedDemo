@@ -27,4 +27,5 @@ and theres enemy's, which are: The purple core thing, The Techten Boss(it's an e
 you MUST reach 260 score,
 you usually get 10 points each time,
 and lap 2 gives you 5 points instead of 10
+lap 2 gives you 2 minutes to get 260 points,
 And that's it.
